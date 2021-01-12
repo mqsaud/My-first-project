@@ -6,7 +6,7 @@
 
 I am delighted to see you here.
 
-To visit my First Web Page please click <a href="https://mqsaud.github.io/My-first-project" target="_blank">Here</a>
+To visit my First Web Page please click [Here](https://mqsaud.github.io/My-first-project/)
 
 ## Project Dicription
 This web site is the part of "Full Stack Web Developer" course run by Code Institute.
