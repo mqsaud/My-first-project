@@ -15,6 +15,6 @@ This is the first project web site built by using GitHub and GitPod.
 ## Technology 
 
 The structure of this project is written in HTML5 and styled using CSS3. GitHub plateform is used to to built and host this web site.
-GitPod code Editor isused to wirte the code.
+GitPod code Editor is used to wirte the code.
 
 
